@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-17)
+## Unreleased (2026-07-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4a96d8c`](https://github.com/stdlib-js/stdlib/commit/4a96d8c9dfad79378cf96fa9e046ed9f79ac1d23) - **chore:** clean-up [(#13522)](https://github.com/stdlib-js/stdlib/pull/13522) _(by Philipp Burckhardt, Athan Reines)_
 -   [`d62914b`](https://github.com/stdlib-js/stdlib/commit/d62914b794fbc08c63041f7229189f6d238556d7) - **feat:** add `ml/base/loss/float64/epsilon-insensitive-gradient` [(#13249)](https://github.com/stdlib-js/stdlib/pull/13249) _(by Nakul Krishnakumar, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Nakul Krishnakumar
+-   Philipp Burckhardt
 
 </section>
 
